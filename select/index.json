@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "香水 (瑛人) ／ダズビー COVER",
+  "base_artist": "ダズビー",
+  "createdAt": "2026-02-11T12:30:19.136899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "香水  /  瑛人 (Official Music Video)",
+      "artist": "EITO",
+      "has_synced": true,
+      "path": "select/01_香水___瑛人_(Official_Music_Video)_EITO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_香水_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "香水-PERFUME-",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/03_香水-PERFUME-_Junko_Ohashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "瑛人",
+      "has_synced": true,
+      "path": "select/04_香水_瑛人.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "Eito",
+      "has_synced": true,
+      "path": "select/05_香水_Eito.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "香水 feat.相沢",
+      "artist": "Kobasolo feat. 相沢",
+      "has_synced": true,
+      "path": "select/06_香水_feat.相沢_Kobasolo_feat._相沢.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "香水 feat.相沢",
+      "artist": "kobasolo, 相沢",
+      "has_synced": true,
+      "path": "select/07_香水_feat.相沢_kobasolo,_相沢.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "香水〜PERFUME〜",
+      "artist": "大橋純子",
+      "has_synced": false,
+      "path": "select/08_香水〜PERFUME〜_大橋純子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/09_香水_五月天.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "香水 feat.相沢",
+      "artist": "Kobasolo feat. 相沢",
+      "has_synced": true,
+      "path": "select/10_香水_feat.相沢_Kobasolo_feat._相沢.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "Eito",
+      "has_synced": true,
+      "path": "select/11_香水_Eito.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "香水 - Kousui",
+      "artist": "Eito",
+      "has_synced": true,
+      "path": "select/12_香水_-_Kousui_Eito.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "LaLa Hsu",
+      "has_synced": true,
+      "path": "select/13_香水_LaLa_Hsu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "香水 - Live",
+      "artist": "LaLa Hsu",
+      "has_synced": true,
+      "path": "select/14_香水_-_Live_LaLa_Hsu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/15_香水_Mayday.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "香水 ーPERFUMEー",
+      "artist": "Junko Ohashi",
+      "has_synced": false,
+      "path": "select/16_香水_ーPERFUMEー_Junko_Ohashi.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "香水 feat.相沢",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/17_香水_feat.相沢_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "香水 (Flavor)",
+      "artist": "Lay (레이)",
+      "has_synced": true,
+      "path": "select/18_香水_(Flavor)_Lay_(레이).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "香水",
+      "artist": "郑润泽",
+      "has_synced": true,
+      "path": "select/19_香水_郑润泽.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "香水",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/pl_01_香水_ダズビー.txt"
+    }
+  ]
+}
